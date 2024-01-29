@@ -6,6 +6,7 @@
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
+ * a printf project for us
  * @width: get width.
  * @precision: precision specifier
  * @size: Size specifier
