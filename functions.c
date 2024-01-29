@@ -5,6 +5,7 @@
 /**
  * print_char - Prints a char
  * @types: List a of arguments
+ * a printf project for us
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: Width
